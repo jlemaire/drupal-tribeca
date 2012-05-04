@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello world mate! Hello mate london 2012!
 Hello world mate! Hello mate london 2012!
 Hello world mate! Hello mate london 2012!
+=======
+Hello world
+>>>>>>> a363cd158b0689d2dbda4b4f890d24f8afee9afa
+later mate
